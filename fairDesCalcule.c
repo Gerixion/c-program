@@ -49,5 +49,5 @@ printf("Resulta - 1 = %d\n\n", result);
  /= 3 // nombre vaut 5
  %= 3 // nombre vaut 2
 */
-
+//test github ;)
 }
