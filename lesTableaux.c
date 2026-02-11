@@ -36,6 +36,7 @@ int main(int argc, int *argv)
 	printf("Et la moyenne et de: %f\n", moyenne);
 	return 0;
 }
+//initialise les tableau
 void initialiserTableau(int *tableau2, int tailleTableau)
          {
                  for(int i = 0; i < tailleTableau; i++)
