@@ -8,6 +8,6 @@
 
 int main()
 {
-	puts("Hello Steve, tu a quelle age?");
+	puts("Hello Steve, sheeegueeee!!!");
 	return 0;
 } 
