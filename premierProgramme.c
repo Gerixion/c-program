@@ -12,8 +12,8 @@
 //function main qui print Hello world.
 int main()
 {
-	printf("Hello world!\n");//une instruction qui print Hello world.
-	printf("Comment vas tue?\n");
+	printf("Hello Steve!\n");//une instruction qui print Hello world.
+	printf("tu a quelle age?\n");
 	return 0;
 		
 }
